@@ -3,6 +3,7 @@
     height: 36px;
     position: absolute;
     top: 0;
+    left: 0;
     width: 100%;
     background-color: black;
     
@@ -10,7 +11,48 @@
 
 .sony-text {
     position: relative; 
-    z-index: 2;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 0;
+  
+   
 }
+
+nav ul a {
+    text-decoration: none;
+    color: grey;
+    font-size: 12px;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+.playstation-logo {
+    height: 34px;
+    width: 34px;
+    position: relative;
+    top: 7px;
+    left: 9px;
+
+}
+
+
+
+
+
+
 
 
