@@ -9,16 +9,11 @@
     
 }
 
-.sony-text {
-    position: relative; 
-    color: white;
-    text-align: right;
-    font-size: 20px;
-    display: flex;
-    justify-content: flex-end;
-    padding-bottom: 0;
-  
-   
+.sony-logo {
+    position: absolute; 
+    top: 0;
+    left: 85%;
+ 
 }
 
 nav ul a {
@@ -44,9 +39,21 @@ nav ul {
     height: 34px;
     width: 34px;
     position: relative;
-    top: 7px;
+    top: 30px;
     left: 9px;
 
+}
+
+.sign-in-button {
+    color: white;
+    background-color: rgb(68, 68, 218);
+    border-radius: 30%;
+    height: 25px;
+    width: 75px;
+    position: relative;
+    left: 85%;
+    text-align: center;
+    bottom: 0;
 }
 
 
