@@ -1,0 +1,16 @@
+
+.sony-bar {
+    height: 36px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background-color: black;
+    
+}
+
+.sony-text {
+    position: relative; 
+    z-index: 2;
+}
+
+
