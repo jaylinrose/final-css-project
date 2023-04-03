@@ -73,57 +73,6 @@ nav ul {
 
 }
 
-.main-banner {
-
-    width: 1900px;
-    height: 1050px;
-    object-fit: fill;
-    left:0;
-    position: absolute;
-    top: 0px;
-    z-index: -2;
-}
-
-.banner-top {
-    background-color: lightgrey;
-    height: 200px;
-    position: absolute;
-    left:0;
-    right: 0;
-    background-image: linear-gradient(to bottom, lightgrey, white);
-
-}
-
-.banner-bottom {
-    background-color: lightgrey;
-    height: 200px;
-    position: absolute;
-    z-index: 3;
-    top: 750px;
-    left:0;
-    right: 0;
-}
-
-.header-back {
-    background-color: white;
-    height: 100px;
-    position: absolute;
-    z-index: -1;
-    top: 36px;
-    left:0;
-    right: 0;
-}
-
-.nav-2 {
-    background-color: white;
-    height: 70px;
-    position: absolute;
-    top: 70px;
-    left:0;
-    right: 0;
-}
-
-
 
 
 
