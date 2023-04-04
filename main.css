@@ -42,7 +42,7 @@ nav ul {
     width: 34px;
     position: absolute;
     top: 36px;
-    left: 9px;
+    left: 20px;
 
 }
 
@@ -121,7 +121,7 @@ nav ul {
     position: absolute;
     left:0;
     right: 0;
-    background-image: linear-gradient(to bottom, rgb(200, 196, 196), white);
+    background-image: linear-gradient(to bottom,  rgb(234, 234, 234), white);
 
 }
 
@@ -129,7 +129,6 @@ nav ul {
     background-color:white;
     height: 700px;
     position: absolute;
-    z-index: 3;
     top: 680px;
     left:0;
     right: 0;
@@ -162,7 +161,33 @@ nav ul {
     left: 520px;
 }
 
+p {
+    color: rgb(68, 67, 67);
+    font-size: 28px;
+    font-family: 'Nunito', sans-serif;
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
 
+.under-spring-sale {
+    color: rgb(68, 67, 67);
+    font-size: 15px;
+    font-family: 'Nunito', sans-serif;
+    position: relative;
+    top: 230px;
+    left: 100px;
+}
+
+.bottom-of-spring-sale {
+    background-color: rgb(227, 191, 191);
+    height: 100px;
+    position: absolute;
+    left:0;
+    right: 0;
+    top: 870px;
+    background-image: linear-gradient(to bottom, rgb(234, 234, 234), white);
+}
 
 
 
